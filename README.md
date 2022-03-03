@@ -4,7 +4,7 @@ I've been working with technology and internet companies for about 25 years now.
 
 As the CEO of my companies and mentor of many others I created, developed, worked, learned from many different types of business models. A have knowledge in eCommerce business in Brazil. I also grew a great experience in marketing and online advertising. These experiences, combined with my IT knowledge (mostly development and cloud infrastructure), allowed me to develop skills in growth hacking.
 
-Most recently I put into practice a new passion, the blockchain, and cryptocurrencies. I have been studying it since late 2014, and in 2017 I created a new company in this segment.
+Most recently I put into practice a new passion, the blockchain, and cryptocurrencies. I have been studying it since late 2015, and in 2017 I created a new company in this segment.
 
 Now I run [Softo](https://sof.to), a software house the offers a new approach to selling software service: DevTeam as a Service.
 
