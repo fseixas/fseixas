@@ -6,7 +6,7 @@ As the CEO of my companies and mentor of many others I created, developed, worke
 
 Most recently I put into practice a new passion, the blockchain, and cryptocurrencies. I have been studying it since late 2014, and in 2017 I created a new company in this segment.
 
-Now I run Softo, a software house the offers a new approach to selling software service: DevTeam as a Service.
+Now I run [Softo](https://sof.to), a software house the offers a new approach to selling software service: DevTeam as a Service.
 
 In the job of creating and growing companies, I managed many aspects, processes, and departments including finance, human sources, IT, marketing, sales, operations, logistics, venture capital investment, and even design.
 
